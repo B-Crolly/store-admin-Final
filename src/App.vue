@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import TopNav from './components/TopNav.vue';
+import TopNav from './components/TopNav.vue'; //test
 
 const productServiceUrl = "/products/";
 const singleProductServiceUrl = "/product/";
